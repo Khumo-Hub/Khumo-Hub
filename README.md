@@ -10,9 +10,9 @@ My goal is to develop reliable, useful applications that solve real-world proble
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🤖 [AI PR Reviewer Application](https://github.com/Khumo-Hub/AI-PR-Reviewer-application)
+###  [AI PR Reviewer Application](https://github.com/Khumo-Hub/AI-PR-Reviewer-application)
 
 An AI-assisted software engineering application that automates parts of the pull-request review process.
 
@@ -34,7 +34,7 @@ An AI-assisted software engineering application that automates parts of the pull
 
 ---
 
-### 🌍 [FDI Lens](https://github.com/Khumo-Hub/fdi-lens)
+###  [FDI Lens](https://github.com/Khumo-Hub/fdi-lens)
 
 A full-stack **Foreign Direct Investment intelligence platform** designed to explore and analyse global investment activity.
 
@@ -57,35 +57,35 @@ The current application uses **synthetic demonstration data** while providing an
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
-### 💻 Software Development
+###  Software Development
 
 `Python` · `JavaScript` · `HTML` · `CSS` · `React` · `Vite`
 
-### ⚙️ Backend & APIs
+###  Backend & APIs
 
 `FastAPI` · `Flask` · `REST APIs` · `SQLAlchemy` · `PyODBC`
 
-### 🗄️ Databases & Data
+###  Databases & Data
 
 `SQL` · `SQL Server` · `SQLite` · `Data Analysis` · `Data Visualisation`
 
-### 🤖 AI & Automation
+###  AI & Automation
 
 `OpenAI API` · `AI Applications` · `AI Automation` · `GitHub Webhooks` · `Microsoft Graph`
 
-### 🧪 Testing & Quality
+###  Testing & Quality
 
 `Pytest` · `Playwright` · `QA Testing` · `Functional Testing` · `API Testing`
 
-### 🚀 DevOps & Development Workflow
+###  DevOps & Development Workflow
 
 `Git` · `GitHub` · `GitHub Actions` · `CI/CD` · `Pull Requests` · `Branching` · `Render`
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 I have practical experience working across **software development, quality assurance and AI-enabled workflows**.
 
@@ -106,7 +106,7 @@ This experience has given me exposure to the software development lifecycle beyo
 
 ---
 
-## 🎓 Education
+##  Education
 
 ### Bachelor of Commerce – Economics
 
