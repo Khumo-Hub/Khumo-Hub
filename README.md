@@ -1,4 +1,4 @@
-# Hi, I'm Khumo Lomko 👋🏾
+# Hi, I'm Khumo Lomko 
 
 ### Software Engineering | AI Automation | Python | Full-Stack Development | Data & Analytics
 
@@ -116,7 +116,7 @@ Final-year student with a strong interest in the intersection of **technology, f
 
 ---
 
-## 🔭 What I'm Currently Building
+##  What I'm Currently Building
 
 I am actively building a portfolio of **fully functional GitHub applications** that demonstrate how I approach real software engineering problems.
 
@@ -141,13 +141,13 @@ I am focused on building **complete systems rather than isolated coding exercise
 
 ---
 
-## 💡 Areas of Interest
+##  Areas of Interest
 
 `Software Engineering` · `AI Applications` · `AI Automation` · `Python Development` · `Backend Development` · `Full-Stack Development` · `QA & Test Automation` · `Data Analytics` · `FinTech` · `Business Technology`
 
 ---
 
-## 🎯 Career Direction
+##  Career Direction
 
 I am particularly interested in opportunities where **software, data, AI and business** intersect.
 
@@ -157,7 +157,7 @@ I am continuing to develop my skills through hands-on projects, real-world softw
 
 ---
 
-## 📈 My Approach
+##  My Approach
 
 I believe good software should be:
 
@@ -169,6 +169,6 @@ I believe good software should be:
 
 ---
 
-### Thanks for visiting my GitHub! 👋🏾
+### Thanks for visiting my GitHub! 
 
 Feel free to explore my repositories and follow along as I continue building software, experimenting with AI and developing practical technology solutions.
