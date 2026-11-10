@@ -1,4 +1,4 @@
-# Hi, I'm Khumo Lomko 👋
+# Hi, I'm Khumo Lomko 
 
 ### Software Development · Web Design · Data Analytics · Quality Assurance
 
@@ -6,7 +6,7 @@ I'm a final-year **BCom Economics student** with hands-on experience in web deve
 
 I enjoy turning real-world problems into websites and tools that are **easy to use, visually polished and technically reliable**. My portfolio brings together front-end development, full-stack engineering, design thinking and quality assurance.
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 1. [FDI Lens](https://github.com/Khumo-Hub/fdi-lens) — Investment Intelligence Dashboard
 
@@ -62,7 +62,7 @@ A South African web app that helps people prepare for appointments and administr
 
 *Portfolio note: this is an informational pilot, not an official booking or application service.*
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 | Area | Tools and skills |
 | --- | --- |
@@ -73,7 +73,7 @@ A South African web app that helps people prepare for appointments and administr
 | **Design and workflow** | Figma, Git, GitHub, GitHub Actions, CI/CD |
 | **Deployment** | Netlify, Vercel, Railway |
 
-## 💡 What I Bring
+##  What I Bring
 
 - A **business and economics perspective** when deciding what a product should solve.
 - A practical approach to **designing, building, testing and deploying** software.
